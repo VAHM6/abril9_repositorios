@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 //añadimos segundo comentario... otra version del proyecto
 
+//segunda version de código
+
 public class Esprimo {
 
 	private static Scanner teclado;
