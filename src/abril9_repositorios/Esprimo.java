@@ -5,7 +5,6 @@ import java.util.Scanner;
 //añadimos comentario para simular cambios en nuestro proyecto.
 
 //añadimos segundo comentario... otra version del proyecto
-//lelelele
 
 public class Esprimo {
 
